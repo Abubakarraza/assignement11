@@ -1,0 +1,60 @@
+@font-face {
+    font-family: lux;
+    src: url(./fonts/LuxuriousRoman-Regular.ttf);
+    
+}
+@font-face {
+    font-family: dom m;
+    src: url(./fonts/Domine-Medium.ttf);
+}
+@font-face {
+    font-family: dom b;
+    src: url(./fonts/Domine-Bold.ttf);
+}
+@font-face {
+    font-family: dom r;
+    src: url(./fonts/Domine-Regular.ttf);
+}
+@font-face {
+    font-family: dom s;
+    src: url(./fonts/Domine-SemiBold.ttf);
+}
+#a{
+    font-family: lux;
+    font-weight:bold ;
+ margin-top: 35px;
+ margin-left: 55px;
+}
+.b{
+    font-weight:900;
+    font-family: dom s;
+   
+}
+.c{
+    margin-top: 60px;
+    background: none;
+  border: none;
+  font-family:lux ;
+  font-weight:bold ;
+  font-size: x-large;
+}
+.d{ 
+    text-align: center;
+    font-weight: 400;
+}
+.e{
+    margin-left: 180px;
+    
+}
+#b{
+    border-top: 2px solid black;
+}
+.f{
+  border-radius: 50%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
